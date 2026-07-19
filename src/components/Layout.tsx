@@ -55,10 +55,18 @@ export function Layout() {
         <div className="footer-links">
           <Link to="/projects">Projects</Link>
           <Link to="/contact">Contact</Link>
-          <a href="https://github.com/ShubhamMane1211" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/ShubhamMane1211"
+            target="_blank"
+            rel="noreferrer"
+          >
             <FaGithub size={17} /> GitHub
           </a>
-          <a href="https://linkedin.com/in/shubhammane1211/" target="_blank" rel="noreferrer">
+          <a
+            href="https://linkedin.com/in/shubhammane1211/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <FaLinkedin size={17} /> LinkedIn
           </a>
         </div>

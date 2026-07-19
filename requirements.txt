@@ -1,3 +1,0 @@
-# This is a React + TypeScript frontend application.
-# JavaScript dependencies are installed through package.json with npm.
-# No Python packages are required unless a backend is added later.

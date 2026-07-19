@@ -11,7 +11,7 @@ export function Resume() {
       <div className="resume-box">
         <FileText size={48} />
         <h2>My résumé</h2>
-        <a className="button primary" href="/resume.pdf" download>
+        <a className="button primary" href="/Shubham_Mane_Resume.pdf" download>
           <Download size={17} /> Download résumé
         </a>
       </div>

@@ -39,7 +39,11 @@ export function Home() {
             data into useful, production-ready applications.
           </p>
           <div className="hero-actions">
-            <a className="button primary" href="/resume.pdf" download>
+            <a
+              className="button primary"
+              href="/Shubham_Mane_Resume.pdf"
+              download
+            >
               Download résumé <ArrowDown size={17} />
             </a>
             <Link className="button secondary" to="/projects">
@@ -47,10 +51,18 @@ export function Home() {
             </Link>
           </div>
           <div className="social-row">
-            <a href="https://github.com/ShubhamMane1211" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/ShubhamMane1211"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FaGithub size={19} /> GitHub
             </a>
-            <a href="https://linkedin.com/in/shubhammane1211/" target="_blank" rel="noreferrer">
+            <a
+              href="https://linkedin.com/in/shubhammane1211/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FaLinkedin size={19} /> LinkedIn
             </a>
           </div>
